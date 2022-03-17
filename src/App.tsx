@@ -15,6 +15,7 @@ function App() {
         </div>
         <div className='mx-4'>
           <LoadPerson />
+          typescript
         </div>
       </div>
     </div>
