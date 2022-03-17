@@ -17,12 +17,9 @@ function App() {
         <div className='mx-4'>
           <LoadPerson />
         </div>
-<<<<<<< HEAD
         <div className='mx-4'>
           <LoadPersonReducer />
         </div>
-=======
->>>>>>> 2e2434e610fb78090712b4c373972d98a87c7166
       </div>
     </div>
   );
