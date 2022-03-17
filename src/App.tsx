@@ -11,14 +11,8 @@ function App() {
         <Headline>
           <div>Hello world</div>
         </Headline>
-        <div className='mx-4'>
+        <div>
           <CustomInput defaultValue='Some value' />
-        </div>
-        <div className='mx-4'>
-          <LoadPerson />
-        </div>
-        <div className='mx-4'>
-          <LoadPersonReducer />
         </div>
       </div>
     </div>
